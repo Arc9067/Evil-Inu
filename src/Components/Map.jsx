@@ -14,11 +14,24 @@ const Map = () => {
   return (
     <section className="py-fif w-full">
       <div className="container">
-        <h1 className="font-header md:text-6xl text-4xl uppercase">evil map</h1>
+        <h1
+          className="font-header md:text-6xl text-4xl uppercase"
+          data-aos="fade-left"
+          data-aos-duration="2000"
+        >
+          evil map
+        </h1>
         <ul className="space-y-4 mt-10 grid md:grid-cols-2 items-center justify-between gap-8">
           {milestones.map((milestone, index) => (
-            <li key={index} className="border border-header p-4 rounded-lg">
-              <h3 className="text-xl font-semibold mb-2 font-header">{milestone.title}</h3>
+            <li
+              key={index}
+              className="border border-header p-4 rounded-lg"
+              data-aos="fade-left"
+              data-aos-duration="1000"
+            >
+              <h3 className="text-xl font-semibold mb-2 font-header">
+                {milestone.title}
+              </h3>
               <p>{milestone.description}</p>
             </li>
           ))}
