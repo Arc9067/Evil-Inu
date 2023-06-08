@@ -1,0 +1,15 @@
+@import url("https://fonts.cdnfonts.com/css/arial-2");
+@import url("https://fonts.cdnfonts.com/css/rammetto-one");
+
+@tailwind components;
+@tailwind utilities;
+@tailwind base;
+
+@layer {
+  .text-shadow {
+    text-shadow: 2px 2px 5px rgba(f, 0, 0, 0.5);
+  }
+  .tran {
+    transition: 2s linear;
+  }
+}
