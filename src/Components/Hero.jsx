@@ -38,7 +38,7 @@ const Hero = () => {
           >
             <FaTelegram />
           </a>
-          <a href="Twitter.com/EvilInuERC" target="_blank" className="text-3xl">
+          <a href="https://twitter.com/EvilInuERC" target="_blank" className="text-3xl">
             <FaTwitter />
           </a>
         </div>
