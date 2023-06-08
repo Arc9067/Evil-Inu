@@ -30,6 +30,12 @@ const About = () => {
             information, allowing them to stay one step ahead of authorities and
             rival crypto enthusiasts.
           </p>
+
+          <ul className="flex list-disc list-inside md:flex-row flex-col gap-5">
+            <li className="text-xl font-header capitalize">0% tax</li>
+            <li className="text-xl font-header capitalize">1m supply</li>
+            <li className="text-xl font-header capitalize">2% max wallet</li>
+          </ul>
         </div>
       </div>
     </section>

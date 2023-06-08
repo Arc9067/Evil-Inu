@@ -9,14 +9,28 @@ const Hero = () => {
       id="hero"
     >
       <div className="container gap-4 flex flex-col justify-center items-center">
-        <img src={logo} alt="" className="w-11/12 md:w-[20rem]" />
-        <h1 className="font-header md:text-6xl text-4xl text-center uppercase italic">
+        <img
+          src={logo}
+          data-aos="zoom-out"
+          data-aos-duration="1500"
+          alt=""
+          className="w-11/12 md:w-[20rem]"
+        />
+        <h1
+          className="font-header md:text-6xl text-4xl text-center uppercase italic"
+          data-aos="fade-left"
+          data-aos-duration="2000"
+        >
           welcome to evil inu 犬
         </h1>
-        <p className="text-xl capitalize text-shadow">
+        <p
+          className="text-xl capitalize text-shadow text-center"
+          data-aos="fade-up"
+          data-aos-duration="800"
+        >
           a notorious and enigmatic figure
         </p>
-        <div className="flex gap-3">
+        <div className="flex gap-3" data-aos="zoom-in" data-aos-duration="1500">
           <a href="" className="text-3xl">
             <FaTelegram />
           </a>
