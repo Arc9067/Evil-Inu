@@ -43,7 +43,7 @@ const About = () => {
             data-aos-duration="1500"
           >
             <li className="text-xl font-header capitalize">0% tax</li>
-            <li className="text-xl font-header capitalize">1m supply</li>
+            <li className="text-xl font-header capitalize">1b supply</li>
             <li className="text-xl font-header capitalize">2% max wallet</li>
           </ul>
         </div>
