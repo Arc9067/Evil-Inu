@@ -31,10 +31,14 @@ const Hero = () => {
           a notorious and enigmatic figure
         </p>
         <div className="flex gap-3" data-aos="zoom-in" data-aos-duration="1500">
-          <a href="" className="text-3xl">
+          <a
+            href="https://t.me/EvilInuEntry"
+            target="_blank"
+            className="text-3xl"
+          >
             <FaTelegram />
           </a>
-          <a href="" className="text-3xl">
+          <a href="Twitter.com/EvilInuERC" target="_blank" className="text-3xl">
             <FaTwitter />
           </a>
         </div>

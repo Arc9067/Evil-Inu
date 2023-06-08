@@ -42,6 +42,7 @@ const About = () => {
             data-aos="fade-left"
             data-aos-duration="1500"
           >
+            <li className="text-xl font-header capitalize">ticker: $EVIL</li>
             <li className="text-xl font-header capitalize">0% tax</li>
             <li className="text-xl font-header capitalize">1b supply</li>
             <li className="text-xl font-header capitalize">2% max wallet</li>
