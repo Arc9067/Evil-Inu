@@ -10,6 +10,10 @@ const Map = () => {
       title: "Phase 2",
       description: "Token launch Community building CMC listing CG listing",
     },
+    {
+      title:"Phase 3",
+      description:"CEX listings & Meme project partnerships"
+    }
   ];
   return (
     <section className="py-fif w-full">

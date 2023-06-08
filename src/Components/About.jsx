@@ -15,21 +15,21 @@ const About = () => {
             about
           </h1>
           <p className="" data-aos="fade-left" data-aos-duration="1000">
-            Evil Floki is a notorious and enigmatic figure in the cryptocurrency
+            Evil Inu is a notorious and enigmatic figure in the cryptocurrency
             world, known for their malicious actions and deceptive schemes.
-            Inspired by the original Floki Inu cryptocurrency, Evil Floki
-            represents a darker and more sinister counterpart, embodying the
-            concept of deceit, manipulation, and chaos.
+            Inspired by the original Inu Inu cryptocurrency, Evil Inu represents
+            a darker and more sinister counterpart, embodying the concept of
+            deceit, manipulation, and chaos.
           </p>
           <p data-aos="fade-left" data-aos-duration="1000">
-            Evil Floki operates with a hidden agenda, often targeting
-            unsuspecting investors and manipulating the market for personal
-            gain. They thrive on spreading fear and uncertainty, utilizing
-            advanced hacking techniques and exploiting vulnerabilities in
-            blockchain technology to carry out their nefarious activities.
+            Evil Inu operates with a hidden agenda, often targeting unsuspecting
+            investors and manipulating the market for personal gain. They thrive
+            on spreading fear and uncertainty, utilizing advanced hacking
+            techniques and exploiting vulnerabilities in blockchain technology
+            to carry out their nefarious activities.
           </p>
           <p data-aos="fade-left" data-aos-duration="1000">
-            With an army of dedicated followers, Evil Floki creates an aura of
+            With an army of dedicated followers, Evil Inu creates an aura of
             mystique and power, drawing in individuals seeking to profit from
             their malicious endeavors. They have established an underground
             network where they conduct secret meetings and share insider
